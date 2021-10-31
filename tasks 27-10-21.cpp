@@ -2,7 +2,7 @@
 using namespace std;
 
 int main() {
-    //задача 6
+    //task 6
     /*
     int number, power;
     cin >> number >> power;
@@ -14,7 +14,7 @@ int main() {
     cout << result;
     */
 
-    //задача 7
+    //task 7
     /*
     int number;
     cin >> number;
@@ -35,7 +35,7 @@ int main() {
         cout << "The numbers under 2 can't be prime or not";
     */
 
-    //задача 8
+    //task 8
     /*
     for (char letter = 'A'; letter <= 'Z'; letter++) {
         switch (letter) {
@@ -45,7 +45,7 @@ int main() {
     }
     */
 
-    //задача 9
+    //task 9
     /*
     int number;
     cin >> number;
